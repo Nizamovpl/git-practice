@@ -21,3 +21,9 @@ Three step commit process
     git add filename.rb
 * Commit the staged files
     git commit -m "Descriptive commit message to myself and others"
+
+How to Sync code 
+------------------------------
+* When starting code on a new computer, you clone the code by git clone and then the HTTL or SSN (or whatever)
+* You can then use the commands git push and git pull to get source code and take it away
+* always pull code when you are syncing with another computer
